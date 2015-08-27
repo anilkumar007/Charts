@@ -8,8 +8,8 @@
   NOTE:<br/>
   In app.js don't forget to include the module as 'chart.js'<br/>
 7)In Index.html you have to include 3 file's to work with your chart's the file path will be like this  <br/>
-   <link rel="stylesheet" href="lib/angular-chart.js/dist/angular-chart.css"><br/>
-    <script src="lib/Chart.js/Chart.min.js"></script><br/>
-    <script src="lib/angular-chart.js/dist/angular-chart.min.js"></script><br/>
+   //<link rel="stylesheet" href="lib/angular-chart.js/dist/angular-chart.css"><br/>
+  //<script src="lib/Chart.js/Chart.min.js"></script><br/>
+    //<script src="lib/angular-chart.js/dist/angular-chart.min.js"></script><br/>
 8)In app.js I wrote an Controller to display the status of charts and it's functionality please have a look <br/>
 9)Please update your cordova platform if the above plugin doesn't work
